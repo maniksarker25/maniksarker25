@@ -4,7 +4,7 @@
 
 I develop and code beautifully simple things and i love what i do. Just simple like that!
 
-Skills: ReactJs, Express , NodeJs, Mongodb
+Skills: ReactJs, ExpressJs, NodeJs, MongoDB
 
 - 🔭 I’m currently working on this page. 
 
