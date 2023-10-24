@@ -9,9 +9,6 @@ Skills: ReactJs, ExpressJs, NodeJs, MongoDB
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning TypeScript, NextJs, Mongoose 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maniksarker25&show_icons=true)  
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maniksarker25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devmaniksarker/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/maniksarker.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/maniksarker265)  
 
 
