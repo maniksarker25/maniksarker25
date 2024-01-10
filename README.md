@@ -16,6 +16,12 @@
 
 #### Specialized In [ Backend ]
  ![Back End](https://skillicons.dev/icons?i=nodejs,express,mongoose,mongodb,prisma,postgreSQL)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-111111?logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
 
 
 #### Familiar with [ Frontend ]
