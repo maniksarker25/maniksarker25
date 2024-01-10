@@ -40,8 +40,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF26BE?logo=adobe-xd&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,vite" /> <img src="./public/icons/notions.svg" width="50" />
-
 
 
 
@@ -98,9 +96,9 @@
 <br>
 <!-- [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-2002)](https://github.com/anuraghazra/github-readme-stats)  -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yeasin-2002&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maniksarker25&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeasin-2002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maniksarker25&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 </details>
