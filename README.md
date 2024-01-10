@@ -34,6 +34,11 @@
 
 
 #### Tools
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF26BE?logo=adobe-xd&logoColor=white)
 
 <img src="https://skillicons.dev/icons?i=vscode,figma,vite" /> <img src="./public/icons/notions.svg" width="50" />
 
