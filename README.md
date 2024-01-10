@@ -16,7 +16,7 @@
 
 #### Specialized In [ Backend ]
  ![Back End](https://skillicons.dev/icons?i=nodejs,express,mongoose,mongodb,prisma,postgreSQL)
-<img src="https://skillicons.dev/icons?i=ts,next,tailwind,redux" /> <img src="./public/icons/zustand.svg" width="50" /> <img src="./public/icons/react-query.svg" width="50" />
+
 
 #### Familiar with [ Frontend ]
 ![Specialized In](https://skillicons.dev/icons?i=ts,next,tailwind,redux,zustand) 
