@@ -15,6 +15,7 @@
 - 🌱 currently learning many things Such as Nextjs, Redux, and TypeScript PostgreSQL, etc.
 
 #### Specialized In [ Backend ]
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
@@ -23,8 +24,13 @@
 
 
 
-#### Familiar with [ Frontend ]
-![Specialized In](https://skillicons.dev/icons?i=ts,next,tailwind,redux,zustand) 
+#### Comfortable with [ Frontend ]
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+
 
 
 #### Tools
