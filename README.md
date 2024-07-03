@@ -1,11 +1,12 @@
 
 ![Manik's Image](https://i.ibb.co/9VpP9sq/1713444671266-1.jpg)
 
-  <h1 align="center"> Hi, I'm Manik Sarker</h1>
+ <!-- <h1 align="center"> Hi, I'm Manik Sarker</h1>
   <h4 align="center"> A passionate full-stack developer dedicated to creating captivating and user-friendly web experiences </h4>
  
 
  </br>
+ -->
 
 ##### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**.  [Download My Resume]([https://drive.google.com/file/d/1pLKyzj2BLvAKvWZCmg7OIhOWcydbO1xT/view?usp=sharing](https://drive.google.com/file/d/11-jmFDNeeYcNAumZ014UCC0fN6AOH-_6/view?usp=sharing))
 
