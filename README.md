@@ -11,7 +11,7 @@
  ### About Me 
 I am a passionate full-stack developer specializing in the MERN stack, with expertise in both SQL and NoSQL databases. I excel in building scalable, responsive web applications and solving complex coding challenges. Continuously learning and adapting, I thrive on staying at the forefront of modern web technologies to deliver innovative solutions and enhance user experiences.
 
-##### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**.  [Download My Resume]([https://drive.google.com/file/d/1pLKyzj2BLvAKvWZCmg7OIhOWcydbO1xT/view?usp=sharing](https://drive.google.com/file/d/11-jmFDNeeYcNAumZ014UCC0fN6AOH-_6/view?usp=sharing))
+##### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**
 
 
 - 💬 Loves to Talk about Technology, Software, Coding, And Ideas 
@@ -69,9 +69,6 @@ I am a passionate full-stack developer specializing in the MERN stack, with expe
  
 <a href="https://twitter.com/">
        <img src="https://img.shields.io/badge/Twitter-323330?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-<a href="https://leetcode.com/">
-       <img src="https://img.shields.io/badge/leetcode-323330?style=for-the-badge&logo=leetcode&logoColor=white" />
     </a>
 
     
