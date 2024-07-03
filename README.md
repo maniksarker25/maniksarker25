@@ -12,7 +12,7 @@
 
 - 💬 Loves to Talk about Technology, Software, Coding, And Ideas 
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
-- 🌱 currently learning many things Such as Nextjs, Redux, and TypeScript PostgreSQL, etc.
+- 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
 
 #### Specialized In [ Backend ]
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
