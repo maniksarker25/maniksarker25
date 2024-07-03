@@ -1,4 +1,4 @@
- ![yeasin's cover](kawser.png)  
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Dev%20Yeasin&height=150&section=header" alt="Manik Banner" />
 
   <h1 align="center"> Hi, I'm Manik Sarker</h1>
