@@ -108,9 +108,6 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maniksarker25&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=maniksarker25&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
 </details>
 
 
