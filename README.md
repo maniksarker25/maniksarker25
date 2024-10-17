@@ -105,7 +105,7 @@ I'm Manik Sarker . I am a passionate full-stack developer specializing in the ME
   <br/>
 </a>
 
-![Codeforces Activity](https://cf-stats.com/api/user/devsmanik/graph.png)
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=devsmanik)
 
 ![Manik Sarker's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maniksarker25&custom_title=Manik-Sarker's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
