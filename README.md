@@ -108,6 +108,6 @@ I'm Manik Sarker . I am a passionate full-stack developer specializing in the ME
 
 ![Manik Sarker's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maniksarker25&custom_title=Manik-Sarker's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![Manik Sarker Graph](https://github-readme-activity-graph.vercel.app/graph?username=hosainahmeed&custom_title=maniksarker25's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ffa337&line=ffa337&point=ffa337&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Manik Sarker Graph](https://github-readme-activity-graph.vercel.app/graph?username=maniksarker25&custom_title=Manik-Sarker-Graph's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ffa337&line=ffa337&point=ffa337&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&fontSize=20"  /></p>
