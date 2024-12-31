@@ -17,12 +17,15 @@ I'm Manik Sarker . I am a passionate full-stack developer specializing in the ME
 - 💬 Loves to Talk about Technology, Software, Coding, And Ideas 
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
-
+- 
 #### Specialized In [ Backend ]
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
+
+#### Specialized In [ Backend ]
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
