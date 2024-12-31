@@ -19,6 +19,8 @@ I'm Manik Sarker . I am a passionate full-stack developer specializing in the ME
 - 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
 
 #### Specialized In [ Backend ]
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -27,6 +29,7 @@ I'm Manik Sarker . I am a passionate full-stack developer specializing in the ME
 ![Prisma](https://img.shields.io/badge/-Prisma-111111?logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
 
 
 
