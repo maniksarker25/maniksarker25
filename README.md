@@ -18,25 +18,21 @@ I'm Manik Sarker . I am a passionate full-stack developer specializing in the ME
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
 - 
-#### Laguage
+#### Language
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 
-#### Specialized In [ Backend ]
+#### Backend 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-111111?logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
-
-
-#### Comfortable with [ Frontend ]
+#### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
@@ -44,7 +40,9 @@ I'm Manik Sarker . I am a passionate full-stack developer specializing in the ME
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 
-
+#### Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 #### Tools
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
