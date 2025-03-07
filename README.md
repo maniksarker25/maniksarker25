@@ -1,5 +1,5 @@
 
-![Manik's Image](https://i.ibb.co/ZG8Bnbz/Green-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)
+![Manik's Image]([https://i.ibb.co/ZG8Bnbz/Green-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png](https://media.licdn.com/dms/image/v2/D4D16AQEu8w_LZ8LFaQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720247138233?e=1746662400&v=beta&t=xLqiG2Rg-yIu0phWK7yX6xOSR_mrXSaYGmNJFiQLf-Q))
 
  <!-- <h1 align="center"> Hi, I'm Manik Sarker</h1>
   <h4 align="center"> A passionate full-stack developer dedicated to creating captivating and user-friendly web experiences </h4>
