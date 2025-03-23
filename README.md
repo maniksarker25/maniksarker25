@@ -17,7 +17,6 @@ I'm Manik Sarker. I am a passionate full-stack developer specializing in the MER
 - 💬 Loves to Talk about Technology, Software, Coding, And Ideas 
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
-- 
 #### Language
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
