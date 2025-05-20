@@ -24,12 +24,17 @@ I'm Manik Sarker.I am a passionate full-stack developer specializing in the MERN
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 
-#### Backend 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-111111?logo=prisma&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+### 🧠 Backend Technologies
+
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)](https://expressjs.com/)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)](https://nestjs.com/)
+[![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=flat-square)](https://mongoosejs.com/)
+[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)](https://www.prisma.io/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)](https://graphql.org/)
+[![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=flat-square)](https://socket.io/)
+[![Webhooks](https://img.shields.io/badge/-Webhook-FFAA00?logo=webhooks&logoColor=white&style=flat-square)](https://en.wikipedia.org/wiki/Webhook)
+
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
