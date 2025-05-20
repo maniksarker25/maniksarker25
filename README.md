@@ -61,6 +61,25 @@ I'm Manik Sarker.I am a passionate full-stack developer specializing in the MERN
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)](https://github.com/features/actions)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)](https://www.docker.com/)
 
+### 📊 Problem Solving & DSA Skills
+
+[![Arrays](https://img.shields.io/badge/-Arrays-6C6CE5?style=flat-square)](https://en.wikipedia.org/wiki/Array_data_structure)
+[![Linked List](https://img.shields.io/badge/-Linked_List-FF6F61?style=flat-square)](https://en.wikipedia.org/wiki/Linked_list)
+[![Stack](https://img.shields.io/badge/-Stack-F94144?style=flat-square)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+[![Queue](https://img.shields.io/badge/-Queue-F9C74F?style=flat-square)](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+[![Tree](https://img.shields.io/badge/-Tree-90BE6D?style=flat-square)](https://en.wikipedia.org/wiki/Tree_(data_structure))
+[![Graph](https://img.shields.io/badge/-Graph-577590?style=flat-square)](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
+[![Hash Table](https://img.shields.io/badge/-Hash_Table-F3722C?style=flat-square)](https://en.wikipedia.org/wiki/Hash_table)
+[![Heap](https://img.shields.io/badge/-Heap-43AA8B?style=flat-square)](https://en.wikipedia.org/wiki/Heap_(data_structure))
+[![Sorting](https://img.shields.io/badge/-Sorting-277DA1?style=flat-square)](https://en.wikipedia.org/wiki/Sorting_algorithm)
+[![Searching](https://img.shields.io/badge/-Searching-4D908E?style=flat-square)](https://en.wikipedia.org/wiki/Search_algorithm)
+[![Recursion](https://img.shields.io/badge/-Recursion-577590?style=flat-square)](https://en.wikipedia.org/wiki/Recursion)
+[![Backtracking](https://img.shields.io/badge/-Backtracking-F94144?style=flat-square)](https://en.wikipedia.org/wiki/Backtracking)
+[![Dynamic Programming](https://img.shields.io/badge/-Dynamic_Programming-90BE6D?style=flat-square)](https://en.wikipedia.org/wiki/Dynamic_programming)
+[![Greedy](https://img.shields.io/badge/-Greedy-43AA8B?style=flat-square)](https://en.wikipedia.org/wiki/Greedy_algorithm)
+[![BFS](https://img.shields.io/badge/-BFS-FF6F61?style=flat-square)](https://en.wikipedia.org/wiki/Breadth-first_search)
+[![DFS](https://img.shields.io/badge/-DFS-F9C74F?style=flat-square)](https://en.wikipedia.org/wiki/Depth-first_search)
+
 
 ### 🏆 Competitive Programming Profiles
 
