@@ -51,10 +51,12 @@ I'm Manik Sarker.I am a passionate full-stack developer specializing in the MERN
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF26BE?logo=adobe-xd&logoColor=white)
 
 
-### 🏆 Competitive Programming
+### 🏆 Competitive Programming Profiles
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-devsmanik-blue?logo=codeforces&style=flat-square)](https://codeforces.com/profile/devsmanik)
 [![CodeChef](https://img.shields.io/badge/CodeChef-devsmanik-orange?logo=codechef&style=flat-square)](https://www.codechef.com/users/devsmanik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-devsmanik-yellow?logo=leetcode&style=flat-square)](https://leetcode.com/devsmanik)
+
 
 
 
