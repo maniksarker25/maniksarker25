@@ -19,7 +19,7 @@ I'm Manik Sarker.I am a passionate full-stack developer specializing in the MERN
 - 🌱 Currently learning many things Such as GraphQL, Software Testing, React Native etc.
 
   
-### 💻 Programming Languages
+### 💻 Programming Languages 
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)](https://isocpp.org/)
