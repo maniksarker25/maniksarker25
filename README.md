@@ -1,5 +1,5 @@
 
-![Manik's Image](https://media.licdn.com/dms/image/v2/D4D16AQEu8w_LZ8LFaQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720247138233?e=1753315200&v=beta&t=9lnBULjMIuK4tvh9p3Kz-Dm-3idiRST_s_zqX4w9to4)
+![Manik's Image](https://media.licdn.com/dms/image/v2/D4D16AQEu8w_LZ8LFaQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1720247138233?e=2147483647&v=beta&t=d5cPZXG2L9p1Y1X42SnKn6tsrGemxytKFDU-9OzMDNo)
 
  <!-- <h1 align="center"> Hi, I'm Manik Sarker</h1>
   <h4 align="center"> A passionate full-stack developer dedicated to creating captivating and user-friendly web experiences </h4>
