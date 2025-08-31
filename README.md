@@ -128,12 +128,18 @@ I'm Manik Sarker. I am a passionate full-stack developer specializing in the MER
 </a>
 
 
-## 🚀 Competitive Programming Stats
+## 📊 Competitive Programming Stats
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=devsmanik" alt="Codeforces Stats" />
-  <img src="https://leetcard.jacoblin.cool/JacobLinCool" alt="LeetCode Stats" />
-</p>
+<div align="center">
+
+  <!-- Codeforces Card -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=devsmanik&theme=dark" alt="Codeforces Stats" height="250"/>
+
+  <!-- LeetCode Card -->
+  <img src="https://leetcard.jacoblin.cool/devsmanik?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" height="250"/>
+
+</div>
+
 
 
 ![Manik Sarker's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maniksarker25&custom_title=Manik-Sarker's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
