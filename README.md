@@ -9,7 +9,7 @@
  -->
 
 ### About Me
-I'm Manik Sarker. I am a passionate full-stack developer specializing in the MERN stack, with expertise in both SQL and NoSQL databases. I excel in building scalable, responsive web applications and solving complex coding challenges. Continuously learning and adapting, I thrive on staying at the forefront of modern web technologies to deliver innovative solutions and enhance user experiences.
+I’m Manik Sarker, a passionate Full-Stack Developer specializing in the MERN stack, with expertise in SQL/NoSQL databases, Docker, CI/CD, and AWS. I build scalable, high-performance web applications with clean architecture and seamless user experiences. Always eager to learn, I stay ahead of modern technologies to deliver innovative, efficient, and reliable digital solutions. I thrive in collaborative environments where I can contribute to building robust systems and drive meaningful technological growth.
 
 ##### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**
 
